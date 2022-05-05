@@ -19,6 +19,13 @@
     - buying and selling shares, 
     - handling various errors (for example: selling more shares than you currently own)
   - GUI created using tkinter, unit tests written using unittest
+- **[Formula 1 database](https://github.com/MarcinScieszka/formula1-database)**
+  - A relational database model containing information about tracks, teams, sponsors, etc.
+  - SQL code includes:
+    - sample data
+    - queries
+    - triggers
+    - views
 - **[Set of questions generator](https://github.com/MarcinScieszka/set-of-questions-generator)**
   - Desktop application that allows quickly generating sets of questions
 
