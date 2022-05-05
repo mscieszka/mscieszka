@@ -9,9 +9,10 @@
 - **[Workout manager](https://github.com/MarcinScieszka/workout-manager)**
   - A mobile-friendly web application that allows registered users to assign and create their own workout routines to a personal account
 - **[Car rental service](https://github.com/MarcinScieszka/car-rental)**
-    - Wireframe with views for visitor, customer, employee and administrator
-    - Database ER diagram, component diagram and sequence diagrams
-    - Suitable for a desktop web application, co-developed in a **two-person team** using Figma
+    - Project co-developed in a **two-person team** that consist of:
+      - Wireframe of a desktop web application with views for guest, customer, employee and administrator that were created using Figma
+      - Software requirements describing user views
+      - Database ER diagram, component diagram and sequence diagrams
 - **[Simple stock trading platform simulator](https://github.com/MarcinScieszka/stock-trading-platform)**
   - A desktop application that simulates:
     - depositing and withdrawing deposits
