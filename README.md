@@ -4,8 +4,7 @@
 ### My projects:
 - **[Wedding planner](https://github.com/MarcinScieszka/wedding-planner)**
   - Web application (in development) where I am part of a **4-person frontend team**
-    - So far, we have mainly worked on the **[prototype](https://github.com/MarcinScieszka/wedding-planner/blob/main/resources/wedding-planner-prototype.png)**
-  - The application will allow booking of various wedding services
+  - The application allows booking of various wedding services
 - **[Workout manager](https://github.com/MarcinScieszka/workout-manager)**
   - A mobile-friendly web application that allows registered users to assign and create their own workout routines to a personal account
 - **[Car rental service](https://github.com/MarcinScieszka/car-rental)**
